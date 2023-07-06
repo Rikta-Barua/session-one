@@ -1,0 +1,8 @@
+*{
+    margin:0px;
+}
+h1{
+    color:red;
+    cursor:url("images/logo.png"),auto;
+
+}
