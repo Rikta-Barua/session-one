@@ -1,8 +1,25 @@
 *{
     margin:0px;
 }
-h1{
+.emoji{
     color:red;
-    cursor:url("images/logo.png"),auto;
+    cursor:url('./images/logo.png'),auto;
 
+}
+.container{
+    display:flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+.box{
+    padding:15px;
+    background-color:blue;
+    width:150px;
+}
+.box2{
+    background-color:aqua;
+
+}
+.box3{
+    background-color: aquamarine;
 }
